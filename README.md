@@ -2,6 +2,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This project is a simple ToDo list application where you can view, complete/uncomplete, filter, and sort tasks. It fetches data from the jsonplaceholder.typicode.com API.
 
+## Screenshot of the app
+
+![image](https://github.com/user-attachments/assets/67051627-cf44-4767-b726-14ad72e9a9fd)
+
+
 ## Prerequisites
 
 Node.js version - v20.14.0
