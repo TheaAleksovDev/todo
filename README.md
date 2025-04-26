@@ -9,10 +9,11 @@ This project is a simple ToDo list application where you can view, complete/unco
 
 ## Prerequisites
 
-Node.js version - v20.14.0
+Node.js version - v20.14.0,
+
 npm version - 10.7.0
 
-You can check your version with:
+You can check your versions with:
 
 ### `node -v`
 
