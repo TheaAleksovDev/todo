@@ -19,9 +19,15 @@ You can check your versions with:
 
 ### `npm -v`
 
+## Built with
+
+- React 19.1.0
+- React DOM 19.1.0
+- React Scripts 5.0.1
+
 ## Clone repository
 
-### `git clone https://github.com/yourusername/todo.git`
+### `git clone https://github.com/TheaAleksovDev/todo.git`
 
 ## Navigate to project directory and install dependencies
 
